@@ -13,7 +13,7 @@
 </p>
 
 # 💫 About Me:
-WORKING ON MERN PROJECT <br>
+WORKING ON MERN PROJECTS <br>
 
 
 ## 🌐 Socials:
