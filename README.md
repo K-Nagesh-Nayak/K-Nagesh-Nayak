@@ -16,7 +16,7 @@
 WORKING ON MERN PROJECTS <br>
 
 
-## 🌐 Socials :
+## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-nagesh-nayak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayak10nagesh@gmail.com)
 <a href="https://www.leetcode.com/nayaknagesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayaknagesh" height="30" width="40" /></a>
 
